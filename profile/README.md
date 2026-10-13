@@ -3,7 +3,7 @@
   <h1>Mad Code AI Studio</h1>
   <p><strong>Useful software, built with care.</strong></p>
   <p>An independent product and technology studio in Montreal, Canada.</p>
-  <p><a href="https://www.madcode.org">Visit our studio</a> · <a href="https://thenota.app">Explore Nota</a> · <a href="https://madcodeorg.github.io/Openbook/">Explore OpenBook</a></p>
+  <p><a href="https://madcode.ai">Visit our studio</a> · <a href="https://thenota.app">Explore Nota</a> · <a href="https://madcodeorg.github.io/Openbook/">Explore OpenBook</a></p>
 </div>
 
 ---
@@ -22,4 +22,4 @@ We design, build, and run focused software around real human needs. We use AI wh
 
 Explore the repositories, try a project, or help make it better. Bug reports, documentation improvements, accessibility fixes, and thoughtful contributions are welcome. Each repository has its own setup instructions and contribution guidance.
 
-For product ideas and project enquiries, visit **[madcode.org](https://www.madcode.org)** or email **[admin@madcode.org](mailto:admin@madcode.org)**.
+For product ideas and project enquiries, visit **[madcode.ai](https://madcode.ai)** or email **[hello@madcode.ai](mailto:hello@madcode.ai)**.
